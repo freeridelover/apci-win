@@ -1,5 +1,5 @@
 # apci-win-android
-ACPI - Automated Portable Content Interface
+APCI - Automated Portable Content Interface
 A Smart and user friendly Bluetooth transmitter and receiver. 
 How to use:
 -Download both the Windows and Android versions
