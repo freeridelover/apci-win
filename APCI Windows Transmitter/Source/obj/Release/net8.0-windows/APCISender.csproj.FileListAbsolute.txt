@@ -1,0 +1,17 @@
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.csproj.AssemblyReference.cache
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.AssemblyInfoInputs.cache
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.AssemblyInfo.cs
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Desktop\windows\bin\Release\net8.0-windows\APCISender.exe
+C:\Users\Ash\Desktop\windows\bin\Release\net8.0-windows\APCISender.deps.json
+C:\Users\Ash\Desktop\windows\bin\Release\net8.0-windows\APCISender.runtimeconfig.json
+C:\Users\Ash\Desktop\windows\bin\Release\net8.0-windows\APCISender.dll
+C:\Users\Ash\Desktop\windows\bin\Release\net8.0-windows\APCISender.pdb
+C:\Users\Ash\Desktop\windows\bin\Release\net8.0-windows\InTheHand.Net.Bluetooth.dll
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.csproj.Up2Date
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.dll
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\refint\APCISender.dll
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.pdb
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\APCISender.genruntimeconfig.cache
+C:\Users\Ash\Desktop\windows\obj\Release\net8.0-windows\ref\APCISender.dll

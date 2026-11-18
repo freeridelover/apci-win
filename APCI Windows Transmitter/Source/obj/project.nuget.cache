@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYXxjUsqZZg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ash\\Desktop\\windows\\APCISender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ash\\.nuget\\packages\\inthehand.net.bluetooth\\4.1.40\\inthehand.net.bluetooth.4.1.40.nupkg.sha512"
+  ],
+  "logs": []
+}
